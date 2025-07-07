@@ -14,6 +14,3 @@ Tech Stack
 Run Locally
 1. Clone repo
 2. Run `app.py`
-
-Screenshots
-(Add images if possible)
